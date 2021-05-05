@@ -11,7 +11,7 @@ public class NonrepeatingString {
 		List<String> st=new ArrayList<String>();
 		
 		for(int i=0;i<str.length();i++) {
-			st.add(str.charAt(i));
+			
 		}
 
 	}
